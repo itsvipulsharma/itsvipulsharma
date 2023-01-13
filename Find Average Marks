@@ -1,0 +1,5 @@
+t1 = int(input())
+t2 = int(input())
+t3 = int(input())
+average = (t1+t2+t3)/3
+print(average)
